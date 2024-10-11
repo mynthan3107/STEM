@@ -1,1 +1,1 @@
-# STEM-proposal
+# STEM
