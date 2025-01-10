@@ -30,7 +30,6 @@ The system **filters** and **transmits** the EMG signal to **ThingSpeak IoT Plat
 
 ## 📊 Signal Processing Flow  
 # 🔹 EMG Signal Processing Flow  
-## *Workflow Diagram*
 
 ```mermaid
 graph TD;
