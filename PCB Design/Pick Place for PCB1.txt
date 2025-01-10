@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB_Project_6\Project Outputs for PCB_Project_6\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03-12-24
+Time:       20:18
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint                 Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                
+Jack       SJ1-3523N        TopLayer CUI_SJ1-3523N             1595.000      4380.787      180      "3.5 mm, Stereo, Right Angle, Through Hole, 3 Conductors, 0 Internal Switches, Audio Jack Connector"                       
+?          TL072CP          TopLayer P0008A                    2085.000      3820.000      180      "Dual Low-Noise JFET-Input General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)" 
+JST-2      B2B-XH-A(LF)(SN) TopLayer FP-B2B-XH-A_LF_SN-MFG     5535.000      3730.788      270      "CONN HEADER VERT 2POS 2.5MM"                                                                                              
+VR3        1K               TopLayer TRIM_3590S-2-103L         4855.000      4360.000      0        "10k Ohm 1 Gang Linear Panel Mount Potentiometer None 10 Kierros Wirewound 2W Solder Lug"                                  
+VR2        1K               TopLayer TRIM_3590S-2-103L         4320.000      2155.000      0        "10k Ohm 1 Gang Linear Panel Mount Potentiometer None 10 Kierros Wirewound 2W Solder Lug"                                  
+VR1        1K               TopLayer TRIM_3590S-2-103L         2815.000      2065.000      180      "10k Ohm 1 Gang Linear Panel Mount Potentiometer None 10 Kierros Wirewound 2W Solder Lug"                                  
+R16        1000O            TopLayer FP-HVR37-MFG              5045.000      3245.000      270      "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R13        1000O            TopLayer FP-HVR37-MFG              4300.000      3069.330      90       "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R10        1000O            TopLayer FP-HVR37-MFG              3365.000      2705.000      0        "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+VR4        10K              TopLayer TRIM_3590S-2-103L         6100.000      2820.000      270      "10k Ohm 1 Gang Linear Panel Mount Potentiometer None 10 Kierros Wirewound 2W Solder Lug"                                  
+R19        159.2O           TopLayer FP-3310Y-001-204L-MFG     3275.000      3780.000      180      "3310Y-001-204L Rotary Potentiometer, Conductive Plastic, 200 kOhm, 1Turn, Linear, 250 mW, ± 20%"                          
+R18        159.2O           TopLayer FP-3310Y-001-204L-MFG     2455.000      2862.402      0        "3310Y-001-204L Rotary Potentiometer, Conductive Plastic, 200 kOhm, 1Turn, Linear, 250 mW, ± 20%"                          
+R17        6.8k             TopLayer FP-HVR37-MFG              5315.000      3235.000      270      "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R15        677.2O           TopLayer FP-3310Y-001-204L-MFG     3955.000      3335.000      0        "3310Y-001-204L Rotary Potentiometer, Conductive Plastic, 200 kOhm, 1Turn, Linear, 250 mW, ± 20%"                          
+R14        677.2O           TopLayer FP-3310Y-001-204L-MFG     3460.000      3330.000      0        "3310Y-001-204L Rotary Potentiometer, Conductive Plastic, 200 kOhm, 1Turn, Linear, 250 mW, ± 20%"                          
+R12        677.2O           TopLayer FP-3310Y-001-204L-MFG     4330.000      3785.000      0        "3310Y-001-204L Rotary Potentiometer, Conductive Plastic, 200 kOhm, 1Turn, Linear, 250 mW, ± 20%"                          
+R11        677.2O           TopLayer FP-3310Y-001-204L-MFG     3750.000      3805.000      0        "3310Y-001-204L Rotary Potentiometer, Conductive Plastic, 200 kOhm, 1Turn, Linear, 250 mW, ± 20%"                          
+R9         10k              TopLayer FP-HVR37-MFG              3370.000      2935.000      180      "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R8         10k              TopLayer FP-HVR37-MFG              2635.000      3700.000      0        "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R7         10k              TopLayer FP-HVR37-MFG              1780.669      3170.000      180      "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R6         10k              TopLayer FP-HVR37-MFG              2640.000      4205.000      180      "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R5         1000k            TopLayer FP-HVR37-MFG              1785.000      2960.000      180      "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R4         1000k            TopLayer FP-HVR37-MFG              2640.000      4000.000      0        "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R3         25k              TopLayer FP-HVR37-MFG              1520.000      3725.000      90       "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R2         10k              TopLayer FP-HVR37-MFG              1740.000      3710.669      90       "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+R1         25k              TopLayer FP-HVR37-MFG              2640.000      4495.000      0        "HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount"        
+JST-1      B3B-XH-A(LF)(SN) TopLayer FP-B3B-XH-A_LF_SN-MFG     3776.574      2130.000      0        "CONN HEADER VERT 3POS 2.5MM"                                                                                              
+EC2        100µF            TopLayer CAPPR65-350-1150X800X1250 2833.898      2830.000      0        "Aluminum Electrolytic Capacitor, 100 uF, +/- 20%, 50 V, -40 to 85 degC, 2-Pin THD, RoHS, Bulk"                            
+EC1        100µF            TopLayer CAPPR65-350-1150X800X1250 2040.000      2695.000      0        "Aluminum Electrolytic Capacitor, 100 uF, +/- 20%, 50 V, -40 to 85 degC, 2-Pin THD, RoHS, Bulk"                            
+CC6        "470 nf"         TopLayer FP-RDE1K1-MFG             3655.000      4225.000      90       "Ceramic Capacitor 470nF ±10% 50V X7R Radial"                                                                              
+CC5        "470 nf"         TopLayer FP-RDE1K1-MFG             4215.000      4220.000      90       "Ceramic Capacitor 470nF ±10% 50V X7R Radial"                                                                              
+CC4        "470 nf"         TopLayer FP-RDE1K1-MFG             5975.000      3355.000      90       "Ceramic Capacitor 470nF ±10% 50V X7R Radial"                                                                              
+CC3        "470 nf"         TopLayer FP-RDE1K1-MFG             5745.000      3360.000      90       "Ceramic Capacitor 470nF ±10% 50V X7R Radial"                                                                              
+CC2        "470 nf"         TopLayer FP-RDE1K1-MFG             4035.000      3713.425      270      "Ceramic Capacitor 470nF ±10% 50V X7R Radial"                                                                              
+CC1        "470 nf"         TopLayer FP-RDE1K1-MFG             3300.000      4240.000      270      "Ceramic Capacitor 470nF ±10% 50V X7R Radial"                                                                              
+6          TL072CP          TopLayer P0008A                    3985.000      2905.000      180      "Dual Low-Noise JFET-Input General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)" 
+5          TL072CP          TopLayer P0008A                    4645.000      2910.000      180      "Dual Low-Noise JFET-Input General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)" 
+4          TL072CP          TopLayer P0008A                    2970.000      3315.000      180      "Dual Low-Noise JFET-Input General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)" 
+3          TL072CP          TopLayer P0008A                    2475.000      3325.000      180      "Dual Low-Noise JFET-Input General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)" 
+1µF        EC3              TopLayer CAPPR65-350-1150X800X1250 4755.000      3660.000      180      "Aluminum Electrolytic Capacitor, 100 uF, +/- 20%, 50 V, -40 to 85 degC, 2-Pin THD, RoHS, Bulk"                            
+1          TL072CP          TopLayer P0008A                    2050.000      4380.000      180      "Dual Low-Noise JFET-Input General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)" 
