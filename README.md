@@ -46,7 +46,6 @@ The system **filters** and **transmits** the EMG signal to **ThingSpeak IoT Plat
       (Real-Time Signal Display)  
 ---
 
----
 
 ## 🎯 Features  
 ✅ **Real-time EMG signal acquisition**  
@@ -78,32 +77,16 @@ The system **filters** and **transmits** the EMG signal to **ThingSpeak IoT Plat
 ---
 
 ## 👨‍💻 Contributors (STEM Group)  
-| Name | Role |  
-|------|------|  
-| **[Your Name]** | Analog Circuit Design & Signal Processing |  
-| **[Member 2]** | ESP32 & ThingSpeak IoT Integration |  
-| **[Member 3]** | Web-Based Visualization Development |  
-| **[Member 4]** | Data Analysis & Feature Extraction |  
 
 ---
 
 ## 🚀 Future Plans  
 🔹 **Enhanced Signal Processing:** Implementing more **feature extraction techniques**.  
-🔹 **Machine Learning Integration:** Classifying EMG signals for medical diagnosis.  
-🔹 **Improved Web Interface:** Adding interactive visualization tools.  
-🔹 **Battery-Powered System:** Making the device portable & wearable.  
+🔹 **Improved Web Interface:** Adding interactive visualization tools.   
+ 
 
 ---
 
-## 📜 License  
-📌 This project is open-source under the **MIT License**. Feel free to contribute & improve it!  
-
----
-
-## 📩 Contact  
-For any queries or contributions, reach out to us via **[your email]** or open an issue in this repository. 🚀  
-
----
 
 
 
