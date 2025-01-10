@@ -63,7 +63,7 @@ The system **filters** and **transmits** the EMG signal to **ThingSpeak IoT Plat
 ![Breadboard Prototype](Assets/Bread_Board.jpg)  
 
 ### **📌 2. Internal Circuit Structure**
-![Circuit Diagram](Schematics.jpg)  
+![Circuit Diagram](Assets/Schematics.jpg)  
 
 ### **📌 3. Final PCB Implementation**
 ![PCB Implementation](Assets/PCB_3D.jpg)  
@@ -76,7 +76,7 @@ The system **filters** and **transmits** the EMG signal to **ThingSpeak IoT Plat
 [![ThingSpeak Data Upload](Assets/Receving Data in ThingSpeak.mp4)  
 
 ### **📌 5. Web-Based Oscilloscope Display**
-![Web-Based Oscilloscope](Website_image.jpg)  
+![Web-Based Oscilloscope](Assets/Website_image.jpg)  
 
 ---
 
