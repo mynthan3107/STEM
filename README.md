@@ -79,7 +79,7 @@ The system **filters** and **transmits** the EMG signal to **ThingSpeak IoT Plat
 ---
 
 ## 👨‍💻 Contributors (STEM Group)  
-
+- *[Thamilezai Ananthakumar](https://github.com/ThamilezaiAnanthakumar)*
 ---
 
 ## 🚀 Future Plans  
