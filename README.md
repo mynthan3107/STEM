@@ -30,10 +30,11 @@ The system **filters** and **transmits** the EMG signal to **ThingSpeak IoT Plat
 
 ## 📊 Signal Processing Flow  
 # 🔹 EMG Signal Processing Flow  
+## *Workflow Diagram*
 
 ```mermaid
 graph TD;
-  A[EMG Dry Electrodes] -->|Analog Filtering (Low-Pass, High-Pass, Notch)| B[ESP32 Microcontroller]
+  A[EMG Dry Electrodes] -->|Analog Filtering| B[ESP32 Microcontroller]
   B -->|Wi-Fi Transmission| C[ThingSpeak IoT Platform]
   C -->|FFT & Feature Extraction| D[Custom Website]
   D -->|Real-Time Signal Display| E[User Visualization]
