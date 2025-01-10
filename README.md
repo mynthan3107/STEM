@@ -37,7 +37,6 @@ graph TD;
   B -->|Wi-Fi Transmission| C[ThingSpeak IoT Platform]
   C -->|FFT & Feature Extraction| D[Custom Website]
   D -->|Real-Time Signal Display| E[User Visualization]
-
 ---
 
 
