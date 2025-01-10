@@ -1,4 +1,4 @@
-# 🦾 Muscle Cramp Detector - STEM Group  
+![image](https://github.com/user-attachments/assets/7b0e3286-f638-41f2-8580-7407c718acae)# 🦾 Muscle Cramp Detector - STEM Group  
 
 ## 📌 Overview  
 Muscle cramps can be unpredictable and cause discomfort or pain, especially for athletes, workers, and patients with neuromuscular conditions.  
@@ -31,19 +31,13 @@ The system **filters** and **transmits** the EMG signal to **ThingSpeak IoT Plat
 ## 📊 Signal Processing Flow  
 # 🔹 EMG Signal Processing Flow  
 
-    [ EMG Dry Electrodes ]  
-             ↓  
-    [ Analog Filtering Circuit ]  
-      (Low-Pass, High-Pass, Notch)  
-             ↓  
-    [ ESP32 Microcontroller ]  
-      (Wi-Fi Transmission)  
-             ↓  
-    [ ThingSpeak IoT Platform ]  
-      (FFT & Feature Extraction)  
-             ↓  
-    [ Custom Website ]  
-      (Real-Time Signal Display)  
+```mermaid
+graph TD;
+  A[EMG Dry Electrodes] -->|Analog Filtering (Low-Pass, High-Pass, Notch)| B[ESP32 Microcontroller]
+  B -->|Wi-Fi Transmission| C[ThingSpeak IoT Platform]
+  C -->|FFT & Feature Extraction| D[Custom Website]
+  D -->|Real-Time Signal Display| E[User Visualization]
+
 ---
 
 
