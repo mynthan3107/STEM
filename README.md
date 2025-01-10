@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7b0e3286-f638-41f2-8580-7407c718acae)# 🦾 Muscle Cramp Detector - STEM Group  
+# 🦾 Muscle Cramp Detector - STEM Group  
 
 ## 📌 Overview  
 Muscle cramps can be unpredictable and cause discomfort or pain, especially for athletes, workers, and patients with neuromuscular conditions.  
